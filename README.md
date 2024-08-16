@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arsatharif
 - 👀 I’m interested in ...Full stack development 
-- 🌱 I’m currently learning ...HTML
+- 🌱 I’m currently learning ...Java Full Stack development 
 - 💞️ I’m looking to collaborate on ... Organization 
 - 📫 How to reach me ... arsatharif1117@gmail.com
 
